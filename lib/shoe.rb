@@ -23,3 +23,4 @@ puts saucony.size
 puts saucony.material
 puts saucony.condition
 saucony.cobble
+puts saucony.condition
