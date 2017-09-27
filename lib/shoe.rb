@@ -11,3 +11,15 @@ class Shoe
     @condition = "new"
   end
 end
+
+saucony = Shoe.new("Saucony")
+saucony.color = "blue"
+saucony.size = 6
+saucony.material = "cloth with mesh around the toes"
+saucony.condition = "loved"
+puts saucony.brand
+puts saucony.color
+puts saucony.size
+puts saucony.material
+puts saucony.condition
+saucony.cobble
